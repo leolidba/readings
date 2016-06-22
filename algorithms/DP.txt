@@ -1,0 +1,5 @@
+https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/
+      https://community.topcoder.com/stat?c=problem_statement&pm=1889&rd=4709
+
+https://www.hrwhisper.me/leetcode-algorithm-solution/
+      https://www.hrwhisper.me/leetcode-integer-break/
