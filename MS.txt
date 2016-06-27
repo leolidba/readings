@@ -1,0 +1,4 @@
+1. Runtime polymorphism vs overloading (compile time)
+2. design patterns: singleton, factory, builder, adapter
+
+IoC Mock framework
